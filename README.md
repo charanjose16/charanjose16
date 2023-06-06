@@ -10,8 +10,8 @@ Full Stack Developer
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on React and MERN Stack Projects
 
-<a href="https://www.github.com/vimalds15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vimalds15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/charanjose16" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/charanjose16?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
