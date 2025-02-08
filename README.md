@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [charanjoseph00@gmail.com](mailto:charanjoseph00@gmail.com)
-* 🚀  I'm currently working on WebDevelopment projects
-* 🧠  I'm learning Machine Learning
+* 🚀  I'm currently working on Full Stack WebDevelopment projects
+* 🧠  I'm learning Gen AI
 
 <a href="https://www.github.com/charanjose16" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/charanjose16?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
